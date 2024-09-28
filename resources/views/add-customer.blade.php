@@ -11,7 +11,7 @@
     <meta name="description"
         content="A powerful and conceptual apps base dashboard template that especially build for developers and programmers.">
     <link rel="shortcut icon" href="../images/favicon.png">
-    <title>Add Customer</title>
+    <title>zaheer abbas</title>
     <link rel="stylesheet" href="{{ asset('css/dashlitee5ca.css') }}">
     <link id="skin-default" rel="stylesheet" href="{{ asset('css/themee5ca.css') }}">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91615293-4"></script>
